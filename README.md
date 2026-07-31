@@ -1,2 +1,2 @@
-# CodeAlpha_StudentGradeTracker
+# CodeAlpha_Project Name
 Author- Aryan Yadav
